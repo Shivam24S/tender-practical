@@ -1,8 +1,40 @@
-# React + Vite
+<!-- note -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+i don't have that much idea regarding create backend API i am learning now days that i know basic stuff
+related to backend and i would like to know more in future to become fully mernstack developer
 
-Currently, two official plugins are available:
+i tried tto complete task
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+for react knowledge i have create one todo repo in react i know mostly about react
+
+like api integration ,react-redux,context-api,hooks,router and all.. and in future i would like to know more
+
+here in react i created a todo type user registration user id and password
+
+which user can create update and delete in that
+
+here is the demo screenshot regarding that
+![alt text](image.png)
+
+# MERN Registration API
+
+## Installation
+
+### Backend
+
+1. Navigate to the root directory.
+2. Run `npm install` to install the dependencies.
+3. Run `node server.js` to start the backend server.
+
+### Frontend
+
+1. Navigate to the `client` directory.
+2. Run `npm install` to install the dependencies.
+3. Run `npm start` to start the React application.
+
+## Usage
+
+- Use the registration form to register a new user.
+- View the list of registered users.
+- Update user data.
+- Delete a user.
